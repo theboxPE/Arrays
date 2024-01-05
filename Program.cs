@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 int [] num;
 num = new int [5];
 num[0] = Convert.ToInt32(Console.ReadLine());
