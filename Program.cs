@@ -37,7 +37,7 @@ for(int i = 0; i < nombres.Length; i++)
     Console.WriteLine(nombres[i] + " "+apellidos[i]+ " "+edades[i]);
 }
 Console.ReadKey();
-*/
+
 
 string[]nombre=new string[3];
 
